@@ -1,1 +1,3 @@
-console.log('Git is Awesome!')
+let user = prompt("Kindly try this")
+
+console.log(user)
